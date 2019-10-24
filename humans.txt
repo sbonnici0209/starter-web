@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sandra Bonnici -- sbonnici@gittraining.com -- <twitter>
 
 # THANKS
 
